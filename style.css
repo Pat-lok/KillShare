@@ -1,0 +1,20 @@
+body
+{
+    font-family: "Covered By Your Grace" , sans-serif;
+}
+header
+{
+    background-image: linear-gradient(0deg, #541d1d, #f13e3e);
+}
+.navbar-brand,
+.text-primary {
+    color: #ffd0d0 !important;
+}
+.blue-bg{
+    background-color: #1b0505;
+    color: aliceblue;
+}
+.btn-bg{
+    background-color: #ff58a9;
+    color: rgb(29, 8, 8);
+}
